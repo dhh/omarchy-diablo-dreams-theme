@@ -4,7 +4,7 @@ A dark, golden-brown theme for [Omarchy](https://omarchy.org) inspired by the
 Lamborghini Diablo 6.0: warm cream text, muted bronze surfaces, and a dusty
 terracotta accent.
 
-![Lamborghini Diablo 6.0](backgrounds/10-lamborghini-diablo-60.jpg)
+![Lamborghini Diablo 6.0](backgrounds/3-lamborghini-diablo-60.jpg)
 
 ## Install
 
