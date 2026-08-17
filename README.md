@@ -6,7 +6,7 @@ terracotta accent.
 
 ![Diablo Dreams preview](preview.png)
 
-![Lamborghini Diablo 6.0](backgrounds/1-lamborghini-diablo-60.jpg)
+![Diablo Dreams backgrounds](backgrounds.jpg)
 
 ## Install
 
