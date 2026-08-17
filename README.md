@@ -4,6 +4,8 @@ A dark, golden-brown theme for [Omarchy](https://omarchy.org) inspired by the
 Lamborghini Diablo 6.0: warm cream text, muted bronze surfaces, and a dusty
 terracotta accent.
 
+![Diablo Dreams preview](preview.png)
+
 ![Lamborghini Diablo 6.0](backgrounds/1-lamborghini-diablo-60.jpg)
 
 ## Install
@@ -22,7 +24,7 @@ omarchy theme install https://github.com/dhh/omarchy-diablo-dreams-theme
 | Lighter background | `#282623` |
 | Foreground | `#FEF2C9` |
 | Accent | `#ab6a57` |
-| Selection | `#FEF2C9` |
-| Muted | `#635f59` |
+| Selection | `#735e46` |
+| Muted | `#817a6b` |
 
 Full ANSI palette in [`colors.toml`](colors.toml). Icons are `Yaru-wartybrown`.
